@@ -1,0 +1,1 @@
+C:/Users/Egon/Documents/Kassenbuch_Python/ProVersion/SourceCode/kassenbuch.db
